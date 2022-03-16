@@ -1,4 +1,8 @@
 # CSCU9T4Practical1
+
+## I will upload to here instead!
+[https://git.simonkellet.xyz/simonkellet/CSCU9T4Practical1](My Gitea)
+
 The starter code for Java Practical exercise number 1 in CSCU9T4  
 This is a Netbeans project but you can import it to an IDE of your choice.  
 Instructions on doing so can be found by simply searching for:
